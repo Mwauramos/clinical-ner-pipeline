@@ -1,0 +1,335 @@
+[
+  {
+    "id": "KE001",
+    "title": "Malaria burden in Kisumu County, Kenya",
+    "source": "East African Medical Journal, 2023",
+    "rule_based": {
+      "DISEASE": [
+        "malaria",
+        "iron deficiency anaemia",
+        "anaemia",
+        "severe malaria",
+        "Plasmodium falciparum"
+      ],
+      "STUDY_DESIGN": [
+        "cross-sectional study"
+      ],
+      "POPULATION": [
+        "children under five"
+      ],
+      "RISK_FACTOR": [
+        "iron deficiency"
+      ],
+      "LOCATION": [
+        "Kisumu County",
+        "Kenya"
+      ]
+    },
+    "scibert": {
+      "Other_event": [
+        "ki"
+      ],
+      "Detailed_description": [
+        "insect",
+        "treated"
+      ],
+      "Disease_disorder": [
+        "malaria",
+        "iron deficiency",
+        "pl",
+        "falciparum"
+      ],
+      "Age": [
+        "under five"
+      ],
+      "Sign_symptom": [
+        "anaemia"
+      ],
+      "Lab_value": [
+        "450",
+        "87"
+      ],
+      "Date": [
+        "2023"
+      ],
+      "Therapeutic_procedure": [
+        "bed nets"
+      ],
+      "Quantitative_concept": [
+        "34 percent"
+      ]
+    },
+    "combined": {
+      "diseases": [
+        "malaria",
+        "iron deficiency anaemia",
+        "anaemia",
+        "severe malaria",
+        "Plasmodium falciparum",
+        "iron deficiency",
+        "pl",
+        "falciparum"
+      ],
+      "locations": [
+        "Kisumu County",
+        "Kenya"
+      ],
+      "study_design": [
+        "cross-sectional study"
+      ],
+      "populations": [
+        "children under five"
+      ],
+      "risk_factors": [
+        "iron deficiency"
+      ],
+      "interventions": [
+        "bed nets"
+      ],
+      "statistics": [
+        "34 percent",
+        "450",
+        "87"
+      ],
+      "time_references": [
+        "2023"
+      ]
+    }
+  },
+  {
+    "id": "KE002",
+    "title": "Tuberculosis treatment outcomes in Nairobi informal settlements",
+    "source": "International Journal of Tuberculosis and Lung Disease, 2023",
+    "rule_based": {
+      "DISEASE": [
+        "tuberculosis",
+        "HIV",
+        "Multidrug-resistant TB",
+        "TB"
+      ],
+      "STUDY_DESIGN": [
+        "retrospective cohort study"
+      ],
+      "POPULATION": [
+        "adult patients"
+      ],
+      "RISK_FACTOR": [
+        "HIV co-infection"
+      ],
+      "LOCATION": [
+        "Kibera",
+        "Nairobi",
+        "Kenya"
+      ]
+    },
+    "scibert": {
+      "Detailed_description": [
+        "mathare"
+      ],
+      "Disease_disorder": [
+        "hiv",
+        "infection",
+        "tb"
+      ],
+      "Lab_value": [
+        "higher"
+      ],
+      "Duration": [
+        "12 - month"
+      ],
+      "Therapeutic_procedure": [
+        "treatment"
+      ]
+    },
+    "combined": {
+      "diseases": [
+        "tuberculosis",
+        "HIV",
+        "Multidrug-resistant TB",
+        "TB",
+        "infection"
+      ],
+      "locations": [
+        "Kibera",
+        "Nairobi",
+        "Kenya"
+      ],
+      "study_design": [
+        "retrospective cohort study"
+      ],
+      "populations": [
+        "adult patients"
+      ],
+      "risk_factors": [
+        "HIV co-infection"
+      ],
+      "interventions": [
+        "treatment"
+      ],
+      "statistics": [
+        "higher"
+      ],
+      "time_references": [
+        "12 - month"
+      ]
+    }
+  },
+  {
+    "id": "TZ001",
+    "title": "Maternal mortality determinants in rural Tanzania",
+    "source": "BMC Pregnancy and Childbirth, 2023",
+    "rule_based": {
+      "DISEASE": [
+        "maternal mortality",
+        "Postpartum haemorrhage",
+        "eclampsia"
+      ],
+      "STUDY_DESIGN": [
+        "case-control study"
+      ],
+      "POPULATION": [
+        "Women"
+      ],
+      "RISK_FACTOR": [
+        "Lack of skilled birth attendance",
+        "Distance greater than 10 kilometres"
+      ],
+      "LOCATION": [
+        "Dodoma",
+        "Tanzania",
+        "Postpartum"
+      ]
+    },
+    "scibert": {
+      "Diagnostic_procedure": [
+        "case - control study"
+      ],
+      "Detailed_description": [
+        "lowest",
+        "distance greater than 10 kilometres from a"
+      ],
+      "Disease_disorder": [
+        "haemorrhage",
+        "eclampsia",
+        "maternal death"
+      ],
+      "Family_history": [
+        "wealth"
+      ],
+      "Nonbiological_location": [
+        "health facility"
+      ]
+    },
+    "combined": {
+      "diseases": [
+        "maternal mortality",
+        "Postpartum haemorrhage",
+        "eclampsia",
+        "haemorrhage",
+        "maternal death"
+      ],
+      "locations": [
+        "Dodoma",
+        "Tanzania",
+        "Postpartum"
+      ],
+      "study_design": [
+        "case-control study"
+      ],
+      "populations": [
+        "Women"
+      ],
+      "risk_factors": [
+        "Lack of skilled birth attendance",
+        "Distance greater than 10 kilometres"
+      ],
+      "interventions": [],
+      "statistics": [],
+      "time_references": []
+    }
+  },
+  {
+    "id": "UG001",
+    "title": "HIV incidence among adolescents in Uganda",
+    "source": "The Lancet HIV, 2023",
+    "rule_based": {
+      "DISEASE": [
+        "HIV"
+      ],
+      "STUDY_DESIGN": [
+        "prospective cohort study"
+      ],
+      "POPULATION": [
+        "adolescents",
+        "Female adolescents",
+        "male participants",
+        "HIV-negative adolescents"
+      ],
+      "RISK_FACTOR": [
+        "Early sexual debut",
+        "low condom use"
+      ],
+      "LOCATION": [
+        "Rakai District",
+        "Uganda"
+      ]
+    },
+    "scibert": {
+      "Disease_disorder": [
+        "hiv"
+      ],
+      "Age": [
+        "24 years"
+      ],
+      "Sex": [
+        "female"
+      ],
+      "Lab_value": [
+        "three times higher",
+        "low",
+        "60 percent"
+      ],
+      "Activity": [
+        "sexual",
+        "condom"
+      ],
+      "Detailed_description": [
+        "voluntary",
+        "medical",
+        "male"
+      ],
+      "History": [
+        "circumcision"
+      ]
+    },
+    "combined": {
+      "diseases": [
+        "HIV"
+      ],
+      "locations": [
+        "Rakai District",
+        "Uganda"
+      ],
+      "study_design": [
+        "prospective cohort study"
+      ],
+      "populations": [
+        "adolescents",
+        "Female adolescents",
+        "male participants",
+        "HIV-negative adolescents"
+      ],
+      "risk_factors": [
+        "Early sexual debut",
+        "low condom use"
+      ],
+      "interventions": [],
+      "statistics": [
+        "three times higher",
+        "low",
+        "60 percent"
+      ],
+      "time_references": []
+    }
+  }
+]
