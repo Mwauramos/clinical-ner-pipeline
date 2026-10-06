@@ -3,7 +3,7 @@
 A hybrid Named Entity Recognition system that extracts structured epidemiological entities from research abstracts using a combination of rule-based matching and a biomedical transformer model.
 
 ## Live Demo
-[your Streamlit URL here]
+https://clinical-ner-pipeline-pua7w9ovmxrflqtcuungsn.streamlit.app/ 
 
 ## What it extracts
 - Diseases and conditions
